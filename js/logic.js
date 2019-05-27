@@ -124,7 +124,7 @@ var overlayMaps = {
   "Tanzanian Energy Sources": t,
   "Kazakhstan Energy Sources": kz,
   "Montenegro Energy Sources":m,
-  "Armenian Energy Sources": a
+  "Arabian Energy Sources": a
  
 };
 
